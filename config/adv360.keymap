@@ -80,7 +80,7 @@
 &trans  &trans  &trans  &trans  &trans  &trans  &trans                                                 &trans  &trans  &trans           &trans             &trans      &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans      &trans             &trans  &trans  &trans  &trans           &trans             &trans      &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans                  &trans      &kp K_SCROLL_UP                    &trans  &trans           &trans             &trans      &trans  &trans
-&trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans      &kp K_SCROLL_DOWN  &trans  &trans          &kp C_VOLUME_UP  &kp K_VOLUME_DOWN  &kp K_MUTE  &trans  &trans
+&trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans      &kp K_SCROLL_DOWN  &trans  &trans          &kp C_VOLUME_UP  &kp C_VOLUME_DOWN  &kp C_MUTE  &trans  &trans
             >;
         };
     };
